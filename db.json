@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "color": "red",
+            "value": "#f00"
+        },
+        {
+            "id": "2",
+            "color": "red",
+            "value": "#f00"
+        }
+    ]
+}
